@@ -12,3 +12,5 @@ The framework to take LLMs out of the box. Learn to use LangChain to call LLMs i
 🔰 Begginer | 🧑‍🏫 Harrison Chase, Andrew Ng | 📜 **Prerequisite recommendation:** Basic Python
 
 [🔗 Course Link ](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction) 
+
+(My Notes Found Here in Notion)[https://www.notion.so/Short-Course-LangChain-for-LLM-Application-Development-8551d58ce1f543488c5caeb8c45c45d1?pvs=4]
