@@ -1,6 +1,6 @@
 # LangChain: Chat with Your Data
 
-![image](https://github.com/yazeedmshayekh2/DLAI-Short-Courses/assets/102586302/3aee8907-d132-48dd-87ed-50d7b1e7a0e0)
+![image](https://github.com/yazeedmshayekh2/DLAI-Short-Courses/assets/102586302/a441172d-4ae9-4dd7-88fa-8524749bdce0)
 
 > 🈴Course Specifications🈴
 
