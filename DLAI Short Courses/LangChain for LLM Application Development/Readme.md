@@ -1,6 +1,6 @@
 # LangChain for LLM Application Development
 
-![image](https://github.com/yazeedmshayekh2/DLAI-Short-Courses/assets/102586302/1f85d3f2-eebd-4be2-a242-e4ed0e3c97a0)
+![image](https://github.com/yazeedmshayekh2/DLAI-Short-Courses/assets/102586302/81917213-c467-45de-bc70-4b7682c95a68)
 
 > 🈴Course Specifications🈴
 > 
